@@ -7,3 +7,9 @@ This GitHub list tracks the resources I'm learning from each day between **Augus
 🔗 [My GitHub AI Learning List](https://github.com/stars/nehawork/lists/100daysofai)
 
 ---
+
+## 🗓️ Day-by-Day Progress
+
+| Day | Resource |
+|-----|------------|
+| 1   | [Day 1](https://github.com/nehawork/learn-azure-openai-python-integration/blob/master/README.md) |
