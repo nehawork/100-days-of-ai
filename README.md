@@ -14,3 +14,4 @@ This GitHub list tracks the resources I'm learning from each day between **Augus
 |-----|------------|
 | 1   | [Day 1](https://github.com/nehawork/learn-azure-openai-python-integration/blob/master/README.md) |
 | 2   | [Day 2](https://github.com/nehawork/chatgpt-clone/blob/master/README.md) |
+| 3   | [Day 3](https://github.com/nehawork/learn-transformer-architecture) |
